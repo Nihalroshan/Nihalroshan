@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/nihalroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nihalroshan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nihal-roshan-pc-509238216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihal-roshan-pc-509238216/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13943759/nihal-roshan-pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13943759/nihal-roshan-pc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nihalroshanpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nihalroshanpc" height="30" width="40" /></a>
+<a href="https://dev.to/nihalroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nihalroshan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nihal-roshan-pc-509238216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihal-roshan-pc-509238216/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13943759/nihal-roshan-pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13943759/nihal-roshan-pc" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nihalroshanpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nihalroshanpc" height="30" width="40" /></a>
 <a href="https://discord.gg/Nihalroshan#2783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nihalroshan#2783" height="30" width="40" /></a>
 </p>
 
