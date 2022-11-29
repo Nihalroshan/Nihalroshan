@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nihal Roshan PC</h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+<h3 align="center">A passionate Software Developer.</h3>
 
 - 🔭 I’m currently working at **ANJ America**
 
 - 📫 How to reach me **nihalroshanpc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17b8Rvj8mp2Jnqd4o5Gle1CzE4tara712/view?usp=sharing](https://drive.google.com/file/d/17b8Rvj8mp2Jnqd4o5Gle1CzE4tara712/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b_ysVL8DszR8DGUlLuWKfFpBHmafeB9T/view?usp=sharing](https://drive.google.com/file/d/1b_ysVL8DszR8DGUlLuWKfFpBHmafeB9T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
